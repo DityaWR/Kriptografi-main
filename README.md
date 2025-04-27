@@ -149,19 +149,3 @@ Implementasi Mini-AES ini berhasil memenuhi seluruh spesifikasi dasar dan hampir
 
 ---
 
-# How to Run
-1. Install dependency:
-```bash
-pip install numpy
-```
-2. Jalankan script:
-```bash
-python MiniAES.py
-```
-
-# Authors
-- Kelompok 5 - Cryptography Class
-
-# License
-This project is licensed for educational purposes.
-
